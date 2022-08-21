@@ -27,7 +27,7 @@
         <div class="row header">
             <div class="col-sm-6">
                 <a href="<?= URL::to('/'); ?>">
-                    <img src="{{ asset('images/logo.png') }}">
+                    <img src="{{ asset('images/logo.png') }}" width: 80px;>
                     <h1 class="logo">Funny Movies</h1>
                 </a>
             </div>
