@@ -1,0 +1,24 @@
+.header {
+    border-bottom: 2px solid;
+}
+
+.logo {
+    margin-top: -46px;
+    margin-left: 50px;
+}
+
+i.fa.fa-home {
+    font-size: 48px;
+}
+
+a {
+    color: unset !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+.login {
+    margin-top: 15px;
+}

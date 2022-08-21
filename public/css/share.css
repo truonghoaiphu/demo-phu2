@@ -1,0 +1,27 @@
+.center {
+    width: 50%;
+    height: 150px;
+    margin-top: 100px;
+    border: 2px solid;
+}
+
+input#url {
+    width: 400px;
+}
+
+fieldset {
+    border: 1px solid #000 !important;
+    margin-top: 100px !important;
+    width: 600px;
+}
+
+legend {
+    margin-left: 50px;
+    width: unset !important;
+}
+
+.button-share {
+    margin-bottom: 20px;
+    width: 400px;
+    margin-left: 103px;
+}
